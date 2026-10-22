@@ -8,7 +8,7 @@
 
 ### Portfolio: [johanes-mg.github.io](https://johanes-mg.github.io)
 
-![Profile views](https://komarev.com/ghpvc/?username=Johanes-mg&style=flat-square&color=6f42c1&label=Visitors)
+
 ![Followers](https://img.shields.io/github/followers/Johanes-mg?style=flat-square&color=6f42c1&label=Followers)
 
 </div>
