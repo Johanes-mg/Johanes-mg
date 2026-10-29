@@ -34,6 +34,7 @@ As a **2nd-year General Computer Science Bachelor's** student at the École Nati
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -65,13 +66,19 @@ As a **2nd-year General Computer Science Bachelor's** student at the École Nati
 | [**JojohExpress**](https://github.com/Johanes-mg/JojohExpress) | `HTML5` `CSS3` `JavaScript` `PHP`   |
 | [**Schoolar**](https://github.com/Johanes-mg/Schoolar)         | `React` `PHP` `Vue.js`              |
 | [**TradeVelvet**](https://github.com/Johanes-mg/TradeVelvet)   | `React` `Node.js` `Express` `MySQL` |
+| [**EDT**](https://github.com/Johanes-mg/EDT)                   | `HTML5` `CSS3` `JavaScript`         |
+| [**Eden**](https://github.com/Johanes-mg/Eden)                 | `HTML5` `CSS3` `JavaScript`         |
 
 ### 💻 Desktop
 
-| Project                                                  | Platform | Stack                        |
-| :------------------------------------------------------- | :------: | :--------------------------- |
-| [**CopyBoost**](https://github.com/Johanes-mg/CopyBoost) | Windows  | `C#` `.NET 8` `Robocopy`     |
-| [**Olympia**](https://github.com/Johanes-mg/Olympia)     | Windows  | `C#` `.NET 8` `WPF` `NAudio` |
+| Project                                                              | Platform | Stack                        |
+| :------------------------------------------------------------------- | :------: | :--------------------------- |
+| [**CopyBoost**](https://github.com/Johanes-mg/CopyBoost)             | Windows  | `C#` `.NET 8` `Robocopy`     |
+| [**Olympia**](https://github.com/Johanes-mg/Olympia)                 | Windows  | `C#` `.NET 8` `WPF` `NAudio` |
+| [**Pointage_sharp**](https://github.com/Johanes-mg/Pointage_sharp)   | Windows  | `C#` `SQLite`                |
+| [**Pointage_rust**](https://github.com/Johanes-mg/Pointage_rust)     | Windows  | `Rust` `SQLite`              |
+| [**Lechapes**](https://github.com/Johanes-mg/Lechapes)               | Windows  | `Rust`                       |
+| [**Joinus**](https://github.com/Johanes-mg/Joinus)                   | Windows  | `Rust`                       |
 
 ### 📱 Mobile
 
