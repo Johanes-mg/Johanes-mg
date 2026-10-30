@@ -67,7 +67,7 @@ As a **2nd-year General Computer Science Bachelor's** student at the École Nati
 | [**Schoolar**](https://github.com/Johanes-mg/Schoolar)         | `React` `PHP` `Vue.js`              |
 | [**TradeVelvet**](https://github.com/Johanes-mg/TradeVelvet)   | `React` `Node.js` `Express` `MySQL` |
 | [**EDT**](https://github.com/Johanes-mg/EDT)                   | `HTML5` `CSS3` `JavaScript`         |
-| [**Eden**](https://github.com/Johanes-mg/Eden)                 | `HTML5` `CSS3` `JavaScript`         |
+| [**Eden**](https://github.com/Johanes-mg/Eden)                 | `HTML5` `TailwindCSS` `JavaScript`         |
 
 ### 💻 Desktop
 
