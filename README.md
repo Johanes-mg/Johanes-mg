@@ -79,6 +79,8 @@ As a **2nd-year General Computer Science Bachelor's** student at the École Nati
 | [**Pointage_rust**](https://github.com/Johanes-mg/Pointage_rust)     | Windows  | `Rust` `SQLite`              |
 | [**Lechapes**](https://github.com/Johanes-mg/Lechapes)               | Windows  | `Rust`                       |
 | [**Joinus**](https://github.com/Johanes-mg/Joinus)                   | Windows  | `Rust`                       |
+| [**JHotelDesktop**](https://github.com/Johanes-mg/JHotelDesktop)                   | Windows  | `Rust` `SQLite`              |
+
 
 ### 📱 Mobile
 
