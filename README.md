@@ -30,7 +30,6 @@ As a **2nd-year General Computer Science Bachelor's** student at the École Nati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -89,7 +88,6 @@ As a **2nd-year General Computer Science Bachelor's** student at the École Nati
 | :----------------------------------------------------------- | :------: | :------- |
 | [**JBacc**](https://github.com/Johanes-mg/JBacc)             | Android  | `Kotlin` |
 | [**JNotes**](https://github.com/Johanes-mg/JNotes)           | Android  | `Kotlin` |
-| [**JHotel**](https://github.com/Johanes-mg/JHotel)           | Android  | `Kotlin` |
 | [**MangaChrono**](https://github.com/Johanes-mg/MangaChrono) | Android  | `Kotlin` |
 | [**Sumi**](https://github.com/Johanes-mg/Sumi)               | Android  | `Kotlin` |
 
