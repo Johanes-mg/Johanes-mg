@@ -90,6 +90,7 @@ As a **2nd-year General Computer Science Bachelor's** student at the École Nati
 | [**JNotes**](https://github.com/Johanes-mg/JNotes)           | Android  | `Kotlin` |
 | [**MangaChrono**](https://github.com/Johanes-mg/MangaChrono) | Android  | `Kotlin` |
 | [**Sumi**](https://github.com/Johanes-mg/Sumi)               | Android  | `Kotlin` |
+| [**Tsiamba**](https://github.com/Johanes-mg/Tsiamba)               | Android  | `Kotlin` |
 
 ---
 
